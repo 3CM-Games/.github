@@ -1,2 +1,2 @@
 # .github
-Organization description.
+We do Rats right.
